@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+* 🔭 I’m currently working as Cloud Solutions Consultant
+* 💬 I help companies move to cloud and innovate leveraging modern technologies
+* 🌱 I’m currently learning to grow in Security and DevOps aspects of Azure.
+* 📫 How to reach me: Twitter@singh_defnc
 <!--
 **singhparveen/singhparveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
