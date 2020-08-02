@@ -4,7 +4,7 @@
 * 💬 I help companies move to cloud and innovate leveraging modern technologies
 * 🌱 I’m currently learning Best Practices to grow in Security and DevOps services of Azure.
 * 📫 How to reach me: Twitter@singh_defnc
-* :writing_hand: I Blog @ https://msoverflow.com
+* :writing_hand: I Blog @ https://parveensingh.com
 <!--
 **singhparveen/singhparveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
