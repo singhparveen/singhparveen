@@ -14,7 +14,7 @@
 - 📫 How to reach me: Twitter@ https://twitter.com/singh_cloud
 - :writing_hand: I Blog @ https://parveensingh.com
 
-<p align="center" style="word-spacing="2em">
+<p align="center" style="word-spacing:2em!;">
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="60"/> 
