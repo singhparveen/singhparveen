@@ -2,13 +2,10 @@
 
 <div style="display:flex">
 <a href="https://twitter.com/singh_cloud" target="blank"><img src="logos/Twitter.svg" alt="singhparveen" height="35" width="35" /></a>&nbsp;
-</p>
-<p style="width:1.2em"></p>
 <a href="https://linkedin.com/in/singhparveen" target="blank"><img src="logos/LinkedIn.svg" alt="singhparveen" height="35" width="35" /></a>&nbsp;
-</p>
-<p style="width:1.2em"></p>
 <a href="https://parveensingh.com/youtube" target="blank"><img src="logos/YouTube.svg" alt="singhparveen" height="50" width="50" /></a>&nbsp;
 </div>
+
 <p style="height:1.5em"></p>
 
 ![](logos/MeAvatar.svg)
