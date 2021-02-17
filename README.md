@@ -8,7 +8,7 @@
 
 <p style="height:1.5em"></p>
 
-![](logos/MeAvatar.svg)
+
 
 ## 🤵 About Me:
 - 🏦 I'm currently working as Cloud Solutions Consultant.
